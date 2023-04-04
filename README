@@ -1,0 +1,3 @@
+Simple wiki web application done using https://go.dev/doc/articles/wiki/ tutorial.
+
+Build the app with "go build wiki.go" command and run with "./wiki"
